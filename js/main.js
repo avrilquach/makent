@@ -64,7 +64,6 @@ $(document).ready(function () {
 			}
 		}
 	});
-	//$('input[name="daterange"]').daterangepicker();
 	$('.class_date').click(function(e){
 		$(".class_date").hide();
 		$('input[name="daterange"]').daterangepicker();
