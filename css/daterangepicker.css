@@ -337,7 +337,10 @@
   background-color: #08c;
   color: #fff;
 }
-
+.class_date{
+  position: absolute;
+  top: 0;
+}
 /*  Larger Screen Styling */
 @media (min-width: 564px) {
   .daterangepicker {
